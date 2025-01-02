@@ -1,0 +1,50 @@
+.about-service {
+  padding: 0 20px;
+  padding-bottom: 40px;
+}
+  
+.about-service h2 {
+  text-align: center;
+  font-size: 28px;
+  color: rgb(46, 46, 46);
+  font-weight: 800;
+  margin: 30px 20px;
+  margin-top: 0;
+}
+  
+  .service-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .service-block {
+    flex: 1 1 250px;
+    max-width: 250px;
+    padding: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .service-block:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .service-icon {
+    font-size: 2rem;
+    color: #785025;
+    margin-bottom: 15px;
+  }
+  
+  .service-block h3 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .service-block p {
+    font-size: 1rem;
+    color: #666;
+  }
+  

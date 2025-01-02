@@ -1,0 +1,9 @@
+.result {
+    padding: 20px;
+}
+
+.result h2 {
+    font-size: 20px 30px;
+    font-weight: 500;
+    color: rgb(43, 42, 42);
+}
