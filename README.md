@@ -43,7 +43,7 @@ To get started with this project:
 
 2. Navigate to the project directory:
    ```bash
-   cd elegantstyle
+   cd clothingstore
    ```
 
 3. Install dependencies:
