@@ -43,7 +43,7 @@ To get started with this project:
 
 2. Navigate to the project directory:
    ```bash
-   cd clothingstore
+   cd clothingstore-main
    ```
 
 3. Install dependencies:
