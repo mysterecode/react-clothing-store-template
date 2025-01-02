@@ -311,16 +311,54 @@
 }
 
 @media (max-width:500px) {
+    .product-detail-container {
+        padding: 20px 20px;
+    }
+
+    .product-detail {
+        width: 100%;
+    }
+
     .product-detail-action {
         flex-wrap: wrap;
         gap: 15px;
     }
 
+    .product-details-section {
+        gap: 10px;
+        margin: 0 20px;
+    }
+
+    .detail-item {
+        width: calc(50% - 5px);
+        padding: 0;
+    }
+    
     .product-detail-addtocart {
         width: 100%;
     }
 
     .product-detail-addtowishlist {
         margin-top: 0;
+    }
+
+    .review-section {
+        margin: 0 20px;
+    }
+
+    .review-section h2 {
+        margin-left: 0;
+    }
+
+    .review-card {
+        padding: 20px 0;
+    }
+
+    .recommendation {
+        margin: 0;
+    }
+
+    .recommendation h2 {
+        margin: 0 20px;
     }
 }
