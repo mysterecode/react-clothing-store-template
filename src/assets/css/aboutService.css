@@ -48,3 +48,17 @@
     color: #666;
   }
   
+
+@media (max-width:500px) {
+
+  .about-service {
+    margin-top: 30px;
+  }
+  
+  .service-block {
+    flex:auto;
+    width: 100%;
+    max-width: fit-content;
+    padding: 20px 0;
+  } 
+}
