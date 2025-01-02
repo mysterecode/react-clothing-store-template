@@ -90,4 +90,8 @@ h1, p, button {
     .Hero {
         max-height: 500px;
     }
+
+    .Hero h1 {
+        font-size: 2.2rem;
+    }
 }
