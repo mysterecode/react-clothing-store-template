@@ -58,7 +58,22 @@
 
     .product-card img {
         width: calc(100vw - 100px);
-        max-width: 100%;
+        max-width: max-content;
         height: auto;
     }
 }
+
+
+@media (max-width:500px) {
+    .product-card {
+        width:auto;
+        max-width: max-content;
+        padding: 0;
+    }
+
+    .product-card img {
+        width: 100%;
+        max-width: max-content;
+    }
+}
+
