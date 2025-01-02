@@ -1,6 +1,6 @@
-# MEGANoir
+# MAGENoir
 
-**MEGANoir** is a beginner-friendly e-commerce project for a men's clothing store. The platform provides an easy-to-use interface for browsing, selecting, and purchasing men's apparel. This project is perfect for developers who want to learn or practice building e-commerce applications using React and a custom context-based state management solution.
+**MAGENoir** is a beginner-friendly e-commerce project for a men's clothing store. The platform provides an easy-to-use interface for browsing, selecting, and purchasing men's apparel. This project is perfect for developers who want to learn or practice building e-commerce applications using React and a custom context-based state management solution.
 
 ---
 
@@ -68,6 +68,6 @@ This project is free to use for any purpose, whether personal or commercial. Att
 
 ## License
 
-This project, **MEGANoir**, is developed and owned by mysterecode. You are free to use, modify, and distribute this project for any purpose. However, attribution to the original author is appreciated but not required.
+This project, **MAGENoir**, is developed and owned by mysterecode. You are free to use, modify, and distribute this project for any purpose. However, attribution to the original author is appreciated but not required.
 
 **Disclaimer:** This software is provided "as is," without warranty of any kind. Use it at your own risk.
