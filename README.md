@@ -71,3 +71,11 @@ This project is free to use for any purpose, whether personal or commercial. Att
 This project, **MAGENoir**, is developed and owned by mysterecode. You are free to use, modify, and distribute this project for any purpose. However, attribution to the original author is appreciated but not required.
 
 **Disclaimer:** This software is provided "as is," without warranty of any kind. Use it at your own risk.
+
+## Contact
+
+Get in touch for project inquiries or custom development using MAGENoir!
+
+* Telegram: https://t.me/mysteredev
+* Email: contact@mysterecode.com
+* Discord: mysteredev
