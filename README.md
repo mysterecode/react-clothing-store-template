@@ -1,6 +1,10 @@
-# MAGENoir
+# React Clothing Store Template – Free E-Commerce Starter  
 
-**MAGENoir** is a beginner-friendly e-commerce project for a men's clothing store. The platform provides an easy-to-use interface for browsing, selecting, and purchasing men's apparel. This project is perfect for developers who want to learn or practice building e-commerce applications using React and a custom context-based state management solution.
+### Developed by [@mysterecode](https://t.me/mysteredev)  
+
+## Overview
+
+This is a **free and open-source React e-commerce template** designed for clothing stores. It provides a simple and customizable foundation for building online stores with modern UI and shopping cart functionality.  
 
 ---
 
@@ -74,7 +78,7 @@ This project, **MAGENoir**, is developed and owned by mysterecode. You are free 
 
 ## Contact
 
-Get in touch for project inquiries or custom development using MAGENoir!
+💬 Need help or custom e-commerce development? Get in touch!
 
 * Telegram: https://t.me/mysteredev
 * Email: contact@mysterecode.com
