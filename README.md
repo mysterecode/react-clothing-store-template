@@ -42,7 +42,7 @@ To get started with this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mysterecode/clothingstore.git
+   git clone https://github.com/mysterecode/react-clothing-store-template.git
    ```
 
 2. Navigate to the project directory:
